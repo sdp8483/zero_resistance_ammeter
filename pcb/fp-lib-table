@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name PL_logo)(type KiCad)(uri ${KIPRJMOD}/lib_fp/PL_logo.pretty)(options "")(descr ""))
+  (lib (name PL_Resistor_SMD)(type KiCad)(uri ${KIPRJMOD}/lib_fp/PL_Resistor_SMD.pretty)(options "")(descr ""))
+)
